@@ -4,6 +4,7 @@ using System.IO;
 using System.Xml;
 using Sgml;
 using System.Text;
+using OFXSharp.Standard;
 
 namespace OFXSharp
 {
